@@ -3,3 +3,4 @@ Das ist der zweite commit
 COmmit nummer 3
 -------------------------Squash
 commit 1 after squash
+commit 2 after squash
