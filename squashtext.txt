@@ -1,3 +1,5 @@
 Dies ist der erste commit
 Das ist der zweite commit
 COmmit nummer 3
+-------------------------Squash
+commit 1 after squash
